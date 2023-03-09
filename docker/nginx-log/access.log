@@ -1,0 +1,5 @@
+172.20.0.1 - - [09/Mar/2023:17:52:55 +0000] "GET / HTTP/1.1" 500 851500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" "-"
+172.20.0.1 - - [09/Mar/2023:17:52:56 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://localhost:9001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" "-"
+172.20.0.1 - - [09/Mar/2023:17:53:36 +0000] "GET / HTTP/1.1" 200 6124 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" "-"
+172.20.0.1 - - [09/Mar/2023:17:57:26 +0000] "GET / HTTP/1.1" 200 6124 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" "-"
+172.20.0.1 - - [09/Mar/2023:17:57:35 +0000] "GET / HTTP/1.1" 200 6124 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" "-"
